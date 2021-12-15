@@ -7,7 +7,7 @@
     <ProjectGuid>{1707F8BC-DE3D-425B-AD78-7F924CFB7105}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>dnc_300_movie_finder_dataTests</RootNamespace>
+    <RootNamespace>dnc-300-movie-finder-dataTests</RootNamespace>
     <AssemblyName>dnc-300-movie-finder-dataTests</AssemblyName>
     <TargetFrameworkVersion>v4.7.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
